@@ -7,7 +7,7 @@ Visual Studio
 
 A pointer is a special variable that holds the memory address of another variable, rather than storing a direct value itself. Pointers allow programs to access and manipulate data in memory efficiently, making them a key feature for system-level programming and dynamic memory management. When we access a pointer directly, we get the address it holds not the actual data stored at that location.
 
-<img width="900" height="450" alt="Screenshot 2025-08-14 144848" src="https://github.com/user-attachments/assets/4a6f203a-8d58-4acf-97b3-30aa741d3520" />
+<img width="762" height="390" alt="image" src="https://github.com/user-attachments/assets/7e9ed668-b5fd-4f16-8384-98c074956070" />
 
 Assign Address:
 
